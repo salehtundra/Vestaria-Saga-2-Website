@@ -1,3 +1,6 @@
+import Character from "../../components/guide/Character"
+import Item from "../../components/guide/Item"
+import { itemtypes } from "../../components/constants/Itemtypes"
 import SectionBody from "../../components/guide/SectionBody"
 import SectionHeader from "../../components/guide/SectionHeader"
 import SectionTitle from "../../components/guide/SectionTitle"

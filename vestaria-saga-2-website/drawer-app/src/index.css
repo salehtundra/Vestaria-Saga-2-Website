@@ -11,6 +11,15 @@ p {
   color: #C8CFCD
 }
 
+li {
+  color: #C8CFCD
+}
+
+img {
+  width: 80%;
+  height: 80%;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -85,7 +94,7 @@ code {
 
 .text-massive {
   font-weight: 500;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 50px;
   background: -webkit-linear-gradient(#FFFFFF 20%, #63BCF6 100%);
   -webkit-background-clip: text;
@@ -94,7 +103,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 .text-big {
   font-weight: 500;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 30px;
   background: #63BCF6;
   -webkit-background-clip: text;
@@ -122,17 +131,22 @@ background-color: #000;
 .section {
   display: flex;
   justify-content: space-between;
-  background: linear-gradient(to bottom, #344969 20%, #294057 30%);
 }
 
 .section-header {
   height: 50px;
   align-items: center;
+  background: #344969;
 }
 
 .section-title {
   height: 100px;
   align-items: center;
+  background: linear-gradient(to bottom, #344969 20%, #294057 30%);
+}
+
+.section-body {
+  background: linear-gradient(to bottom, #344969 20%, #294057 30%);
 }
 
 .section-Left {
@@ -149,4 +163,42 @@ background-color: #000;
   display: flex;
   justify-content: center;
   color: #fff;
+}
+
+.redtext {
+  color: #FF0000
+}
+
+.greentext {
+  color: #00FF00
+}
+
+.special-weapon-text {
+  color: #FFAAAA
+  }
+
+.regular-weapon-text {
+  color: #AAFFAA
+}
+
+.personal-weapon-text {
+  color: #AAAAFF
+}
+
+.character-text {
+  font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+.ally-text {
+  background: -webkit-linear-gradient(#FFFFFF 20%, #6363F6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
+}
+
+.enemy-text {
+  background: -webkit-linear-gradient(#FFFFFF 20%, #BC6363 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
 }
