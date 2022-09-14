@@ -2,13 +2,13 @@ import AppBar from '@mui/material/AppBar';
 
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
-import { cyan } from '@mui/material/colors';
+import { indigo } from '@mui/material/colors';
 
 const CustomAppBar = () => {
     
     return (
       <Box sx={{ flexGrow: 1 }}>
-        <AppBar position="static" style={{ background: cyan[900] }}>
+        <AppBar position="static" style={{ background: indigo[900] }}>
             <Typography variant="h6" color="inherit" component="div">
               Vestaria Saga 2 Walkthrough
             </Typography>

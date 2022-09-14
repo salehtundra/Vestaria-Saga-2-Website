@@ -17,7 +17,7 @@ code {
 }
 
 .container {
-  background: linear-gradient(to bottom, #486894 10%, #243442 20%, #110022 30%);
+  background: #294057;
 }
 
 #main {
@@ -25,7 +25,7 @@ code {
   left: 20%;
   width: 60%;
   overflow-wrap:normal;
-  background: linear-gradient(to bottom, #486894 20%, #243442 80%, #110022 100%);
+  background: #294057;
 }
 
 .footer {
@@ -34,7 +34,7 @@ code {
   bottom: 90%;
   height: 10%;
   clear: both;
-  background-color: #110022;
+  background-color: #294057;
 }
 
 .nav-list {
@@ -96,7 +96,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 500;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 30px;
-  background: -webkit-linear-gradient(#FFFFFF 20%, #63BCF6 100%);
+  background: #63BCF6;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -122,7 +122,7 @@ background-color: #000;
 .section {
   display: flex;
   justify-content: space-between;
-  background: linear-gradient(to bottom, #486894 20%, #364667 100%);
+  background: linear-gradient(to bottom, #344969 20%, #294057 30%);
 }
 
 .section-header {
