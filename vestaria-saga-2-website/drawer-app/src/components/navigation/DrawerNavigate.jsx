@@ -5,7 +5,7 @@ import Grid from "@mui/material/Grid";
 import Button from "@mui/material/Button";
 import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
-import { blueGrey, grey } from '@mui/material/colors';
+import { blueGrey } from '@mui/material/colors';
 import ChapterListItem from './ChapterListItem'
 import OverviewListItem from './OverviewListItem'
 import AboutListItem from './AboutListItem'
@@ -25,7 +25,7 @@ const DrawerNavigate = ({ variant, ...props }) => {
           PaperProps={{
             sx: {
               backgroundColor: blueGrey[800],
-              width: 200,
+              width: 230,
             },
           }}
         >
