@@ -1,14 +1,14 @@
 import React from 'react';
 import Divider from '@mui/material/Divider';
 
-class SectionHeader extends React.Component {
+class SectionTitle extends React.Component {
     render() {
       return (
         <div>
-          <section class="section-header section">
+          <section class="section-title section">
             <div class="box-main">
               <div class="firstHalf">
-                {this.props.children}
+                <h1 class="text-massive">{this.props.title}</h1>
               </div>
             </div>
           </section>
@@ -18,4 +18,4 @@ class SectionHeader extends React.Component {
   }
 }
 
-export default SectionHeader;
+export default SectionTitle;

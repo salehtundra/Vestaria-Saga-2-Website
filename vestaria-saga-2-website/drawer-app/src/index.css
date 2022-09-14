@@ -7,13 +7,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+p {
+  color: #C8CFCD
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
 
 .container {
-  background: #243442 
+  background: linear-gradient(to bottom, #486894 10%, #243442 20%, #110022 30%);
 }
 
 #main {
@@ -30,7 +34,7 @@ code {
   bottom: 90%;
   height: 10%;
   clear: both;
-  background-color: #000;
+  background-color: #110022;
 }
 
 .nav-list {
@@ -79,6 +83,15 @@ code {
   margin: auto;
 }
 
+.text-massive {
+  font-weight: 500;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  background: -webkit-linear-gradient(#FFFFFF 20%, #63BCF6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .text-big {
   font-weight: 500;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -90,7 +103,6 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 .text-small {
   overflow-wrap: break-word;
-  color: #C8CFCD
 }
 
 .btn {
@@ -109,17 +121,18 @@ background-color: #000;
 
 .section {
   display: flex;
-  align-items: center;
   justify-content: space-between;
   background: linear-gradient(to bottom, #486894 20%, #364667 100%);
 }
 
 .section-header {
   height: 50px;
-  display: flex;
   align-items: center;
-  justify-content: space-between;
-  background: linear-gradient(to bottom, #486894 20%, #364667 100%);
+}
+
+.section-title {
+  height: 100px;
+  align-items: center;
 }
 
 .section-Left {
@@ -131,7 +144,6 @@ background-color: #000;
 }
 
 .text-footer {
-  text-align: center;
   padding: 30px 0;
   font-family: 'Ubuntu', sans-serif;
   display: flex;
