@@ -17,7 +17,7 @@ class ChapterListItem extends React.Component {
           color: blueGrey[200],
           fontWeight: "bolder",
           }}
-          to={"/" + this.props.route}
+          to={`/${this.props.route}`}
       >
           <DescriptionIcon sx={{ color: grey[50] }} /> &nbsp;&nbsp;{this.props.chapter}
           </ListItem>

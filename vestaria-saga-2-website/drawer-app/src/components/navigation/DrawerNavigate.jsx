@@ -5,11 +5,12 @@ import Grid from "@mui/material/Grid";
 import Button from "@mui/material/Button";
 import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
-import { blueGrey } from '@mui/material/colors';
+import { grey } from '@mui/material/colors';
 import ChapterListItem from './ChapterListItem'
 import OverviewListItem from './OverviewListItem'
 import AboutListItem from './AboutListItem'
 import ContactListItem from './ContactListItem'
+import Toolbar from '@mui/material/Toolbar';
 
 const DrawerNavigate = ({ variant, ...props }) => {
   const [open, setOpen] = useState(true);
@@ -24,11 +25,15 @@ const DrawerNavigate = ({ variant, ...props }) => {
           onClose={() => setOpen(false)}
           PaperProps={{
             sx: {
-              backgroundColor: blueGrey[800],
-              width: 230,
+              backgroundColor: grey[800],
+              width: 220,
             },
           }}
         >
+          <Toolbar>
+            <img src="GuideBarIcon.png" alt="Vestaria Project" />
+          </Toolbar>
+          <Divider />
           <List>
             <ListItem button onClick={() => setOpen(false)}>
                 <OverviewListItem chapter="Guide Overview"></OverviewListItem>

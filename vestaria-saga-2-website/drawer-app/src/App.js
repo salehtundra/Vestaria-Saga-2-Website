@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import DrawerNavigate from "./components/navigation/DrawerNavigate";
-import CustomAppBar from "./components/layout/customAppBar";
+import CustomAppBar from "./components/layout/CustomAppBar";
 import './App.css';
 import AboutPage from './pages/aboutPage';
 import ContactPage from './pages/contactPage';

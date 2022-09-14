@@ -1,21 +1,22 @@
+import SectionBody from "../../components/guide/SectionBody"
+import SectionHeader from "../../components/guide/SectionHeader"
+import Footer from "../../components/guide/Footer"
+
 const Chapter1 = () => {
     return (
         <div id="main">
-          <section class="section">
-            <div class="box-main">
-              <div class="firstHalf">
-                <p class="text-small">
-                  Chapter 1 Goes Here
-                </p>
-              </div>
-            </div>
-          </section>
-          <footer className="footer">
-              <p className="text-footer">
-                  Copyright ©Chris Tenda -All rights are reserved
-              </p>
-          </footer>
-        </div>        
+          <SectionHeader>
+            <h1 class="text-big">
+              Chapter 1
+            </h1>
+          </SectionHeader>          
+          <SectionBody>
+            <p class="text-small">
+              Chapter 1 Goes Here
+            </p>
+          </SectionBody>
+          <Footer />
+        </div>
     )
 }
 
