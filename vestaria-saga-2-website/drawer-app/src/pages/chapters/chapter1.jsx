@@ -46,7 +46,7 @@ const Chapter1 = () => {
               <p>A swordmaster new to this game. Starts as an advanced class. He carries an item in this game which gives you a free level up to one unit. Starts without a personal weapon. His personal skill also makes him take 1HP of damage every turn. </p>
             </Character>
             <Character charname="Sujata" chartype="ally">
-              <p>A very interesting unit. She cannot die with her personal weapon <Item itemtype={itemtypes[1]}>Prayer Knife*</Item> equipped however if she goes to 1HP she goes berserk. She is the only base class unit in our team as of now. </p>
+              <p>A very interesting unit. She cannot die with her personal weapon <Item itemtype={itemtypes[1]}>Prayer Knife*</Item> equipped however if she goes to 1HP she goes berserk.Enemies cannot counter her on player phase. She is the only base class unit in our team as of now. This unique property of her personal weapon makes her very good at blocking choke points. </p>
             </Character>
             <Character charname="Sheela" chartype="ally">
               <p>A deadshot from the first game. Starts as an advanced class. Her personal weapon <Item itemtype={itemtypes[1]}>Soaring Flame*</Item> is pretty good and does magic damage. </p>

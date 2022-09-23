@@ -21,7 +21,7 @@ const Chapter2 = () => {
               <span class="greentext">Victory: Open the exit and escape (with all survivors)</span><br/>
               <span class="redtext">Defeat: Zade dies, your last remaining ally dies</span><br/><br/>
 
-            The following is what the first chapter looks like on Turn 1:<br/>
+            The following is what the chapter looks like on Turn 1:<br/>
             </p>
             <img src="./screenshots/chapter2map.png" alt="Chapter Map" />
             <p>
@@ -39,6 +39,8 @@ const Chapter2 = () => {
             <Character charname="Slayne" chartype="ally">
               <p>Slayne comes back from the previous game. He is an advanced class True Archer. Does not come with a personal weapon.</p>
             </Character>
+            <br/>
+            <p>Technically Cezar is back from the previous game however he is now acting as tactician and is effectively merged with Zade story wise. Cezar gives Zade the lockpick skill from this point forward allowing him to unlock doors.</p>
           </SectionBody>
           
           <SectionHeader>
@@ -131,6 +133,17 @@ const Chapter2 = () => {
             <p>
               You do not need to go to the top right corner and confront the wraiths if you do not care about the estoc. You cannot interact with the top right corner lever with anyone.
             </p><br/>
+          </SectionBody>
+
+          <SectionHeader>
+            <h1 class="text-big">
+              Softlock Warning
+            </h1>
+          </SectionHeader>          
+          <SectionBody>
+            <p>
+            If you choose to not pull the lever with Zade to open the exit you don't get another chance and the map is unbeatable. Don't interact with that lever if you are not ready to leave or only head up to the top with Zade when you are sure you have everything.
+            </p>
           </SectionBody>
 
           <Footer />
