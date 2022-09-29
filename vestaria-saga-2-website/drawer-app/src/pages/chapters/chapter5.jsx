@@ -31,14 +31,12 @@ const Chapter5 = () => {
           <li>Baruke: Heavy Phalanx Tactic - by far the hardest map version, far range healers help enemy units, full heal for everyone on the enemy side from the boss every turn, nasty defensive reinforcements with lances that buff nearby allies. A boss exists on the map with a drop-able tome but you are probably not getting it without some power grind to make some broken unit early. This version gives a ton of experience but you will most likely be close to breaking your personal weapons on it with everyone and certain bonus objectives like capturing Bezelphen is much harder with the full heal per turn. (hard option)</li>
         </ul>  
         <p>
-            Side note: you can actually tell if the map is going to be Heavy Phalanx Tactic before Baruke even says anything if there are mages in the top right mountains of the battle preparations menu.<br/><br/>
-            The following is what the chapter looks like on Turn 1 if Baruke did not say Heavy Phalanx Tactic:<br/>
-        </p>
-        <img src="./screenshots/chapter5map.png" alt="Chapter Map" />
-        <p>
+          Side note: you can actually tell if the map is going to be Heavy Phalanx Tactic before Baruke even says anything if there are mages in the top right mountains of the battle preparations menu.<br/><br/>
+          The following is what the chapter looks like on Turn 1 if Baruke did not say Heavy Phalanx Tactic:<br/>
+          <img src="./screenshots/chapter5map.png" alt="Chapter Map" /><br/>
           I went through and marked everything of interest on the map as shown here:<br/>
+          <img src="./screenshots/chapter5data.png" alt="Chapter Data" /><br/>
         </p>
-        <img src="./screenshots/chapter5data.png" alt="Chapter Data" />
       </SectionBody>
       
       <SectionHeader>

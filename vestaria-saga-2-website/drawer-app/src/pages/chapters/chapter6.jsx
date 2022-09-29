@@ -24,12 +24,10 @@ const Chapter6 = () => {
             Note: I strongly recommend deploying both Nelke and Drake for this map. Sheela, Bennette, and Bertoullia are also very useful for the right side section.<br/><br/>
 
             The following is what the chapter looks like on Turn 1:<br/>
-            </p>
-            <img src="./screenshots/chapter6map.png" alt="Chapter Map" />
-            <p>
-              I went through and marked everything of interest on the map as shown here:<br/>
-            </p>
-            <img src="./screenshots/chapter6data.png" alt="Chapter Data" />
+            <img src="./screenshots/chapter6map.png" alt="Chapter Map" /><br/>
+            I went through and marked everything of interest on the map as shown here:<br/>
+            <img src="./screenshots/chapter6data.png" alt="Chapter Data" /><br/>
+        </p>
       </SectionBody>
       
       <SectionHeader>

@@ -154,6 +154,10 @@ const Chapter1 = () => {
             <p>
               This is a pretty easy chapter. I found the easiest way to deal with this was to send Sujata, Accorte, and Zade up and have Ashram move back onto the forest and deal with the three poison knife wielding thieves in the bottom right corner of the map. He had the First Blood skill so he tended to defeat them before he could get poisoned. I interacted with the <Item itemtype={itemtypes[2]}>Divine Sword</Item> with Sujata since she was invicible to death and used Accorte and her fire tome to deal with the continual skeleton spawns at a safe distance. Zade easily took care of the bandits and Odamir and Humphrey. I had Sheela take out Nyrobie as soon as she spawned and she also took out Aristotle when he attacked her. Other than that make sure to get all the items and have Sheela talk to Zade and Zayid talk to Ashram.
             </p>
+            <br/>
+            <p>
+              Note: if you are experienced with these types of games you may be tempted to try to get Sujata as many levels as possible now since she seems to be the archetype that becomes a powerhouse later on. While this is true, it is actually easier to level her later in the game thanks to a few weapons which leave enemy health at 1HP; also, there is a nasty penalty on chapter 11 for players who power leveled her into a powerhouse unit early on.
+            </p>
           </SectionBody>
 
           <Footer />

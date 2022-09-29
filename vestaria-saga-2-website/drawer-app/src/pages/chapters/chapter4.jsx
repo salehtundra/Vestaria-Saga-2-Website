@@ -23,12 +23,10 @@ const Chapter4 = () => {
             Note: You absolutely cannot let the enemy even touch the refugees. They are very frail and die easily so you will need to create a blockade on the road to protect them. This chapter throws new allies at you and gives you a lot of green ally units already blocking the road so it is actually very easy to protect them.<br/><br/>
             Also this is the first map you get access to the preparations screen. You can only choose 6 other units to field along with Zade. I strongly recommend fielding Drake and one of the two sailors you captured last chapter.<br/><br/>
             The following is what the chapter looks like on Turn 1:<br/>
+            <img src="./screenshots/chapter4map.png" alt="Chapter Map" /><br/>
+            I went through and marked everything of interest on the map as shown here:<br/>
+            <img src="./screenshots/chapter4data.png" alt="Chapter Data" /><br/>
         </p>
-        <img src="./screenshots/chapter4map.png" alt="Chapter Map" />
-        <p>
-          I went through and marked everything of interest on the map as shown here:<br/>
-        </p>
-        <img src="./screenshots/chapter4data.png" alt="Chapter Data" />
       </SectionBody>
       
       <SectionHeader>
@@ -62,10 +60,10 @@ const Chapter4 = () => {
           <p>An armor knight with decent defense you get on turn 6.</p>
         </Character>
         <Character charname="Alexander" chartype="ally">
-          <p>A lance knight who shows up on turn 12, you need to talk to him or Hestion with Zade to recruit both. He starts of very weak and underwhelming along for a cavalry unit.</p>
+          <p>A lance knight who shows up on turn 12, you need to talk to him or Hestion with Zade to recruit both. He starts of very weak and underwhelming for a cavalry unit.</p>
         </Character>
         <Character charname="Hestion" chartype="ally">
-          <p>A knight who shows up on turn 12, you need to talk to him or Alexander with Zade to recruit both. He starts of very weak and underwhelming along for a cavalry unit.</p>
+          <p>A knight who shows up on turn 12, you need to talk to him or Alexander with Zade to recruit both. He starts of very weak and underwhelming for a cavalry unit.</p>
         </Character>
       </SectionBody>
       

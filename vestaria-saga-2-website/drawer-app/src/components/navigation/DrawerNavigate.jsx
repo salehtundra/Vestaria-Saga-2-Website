@@ -62,6 +62,9 @@ const DrawerNavigate = ({ variant, ...props }) => {
               <ChapterListItem chapter="Chapter 7" route="chapter7"></ChapterListItem>
             </ListItem>
             <ListItem button onClick={() => setOpen(false)}>
+              <ChapterListItem chapter="Chapter 7x" route="chapter7x"></ChapterListItem>
+            </ListItem>            
+            <ListItem button onClick={() => setOpen(false)}>
               <ChapterListItem chapter="Chapter 8" route="chapter8"></ChapterListItem>
             </ListItem>
             <ListItem button onClick={() => setOpen(false)}>

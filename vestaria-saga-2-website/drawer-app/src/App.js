@@ -13,6 +13,7 @@ import Chapter4 from './pages/chapters/chapter4'
 import Chapter5 from './pages/chapters/chapter5'
 import Chapter6 from './pages/chapters/chapter6'
 import Chapter7 from './pages/chapters/chapter7'
+import Chapter7x from './pages/chapters/chapter7x'
 import Chapter8 from './pages/chapters/chapter8'
 import Chapter9 from './pages/chapters/chapter9'
 import Chapter10 from './pages/chapters/chapter10'
@@ -50,6 +51,7 @@ function App() {
             <Route path="/chapter5" element={<Chapter5 />} />
             <Route path="/chapter6" element={<Chapter6 />} />
             <Route path="/chapter7" element={<Chapter7 />} />
+            <Route path="/chapter7x" element={<Chapter7x />} />
             <Route path="/chapter8" element={<Chapter8 />} />
             <Route path="/chapter9" element={<Chapter9 />} />
             <Route path="/chapter10" element={<Chapter10 />} />
