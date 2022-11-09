@@ -6,7 +6,7 @@ Termminal commands used to make the react app
 > npx create-react-app vestaria-saga-2-website
 
 Terminal commands used to run the react app
->   cd vestaria-saga-2-website
+>   cd vestaria-saga-2-website/drawer-app
 >   npm start
 
 Firefox will open up the webpage at **localhost:3000** after a while
