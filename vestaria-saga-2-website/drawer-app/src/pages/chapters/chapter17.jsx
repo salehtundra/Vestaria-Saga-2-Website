@@ -19,7 +19,7 @@ const Chapter17 = () => {
         <p class="text-small">
           Your conditions on this map are as follows:<br/>
           <span class="greentext">Victory: Zade seizes the throne, Conrad is defeated.</span><br/>
-          NOTE: Conrad is defeated gets removed when Conrad disappears, then gets added back when he appears on mount at the end of the chapter.<br/><br/>
+          NOTE: Conrad is defeated gets removed when Conrad disappears, then gets added back when he appears on mount at the end of the chapter.<br/>
           <span class="redtext">Defeat: Zade dies, Bennette dies, Conrad Escapes.</span><br/>
           NOTE: Arielle or Lazeria dies gets added to defeat conditions after they spawn on turn 5. It will be removed when they despawn.<br/><br/>      
           You are given two choices prior to starting this map if Lazeria was spared in chapter 10. On turn 5 you will get either Arielle or Lazeria to spawn on the map as a green unit depending on your choice at the beginning. Arielle puts enemies to sleep, Lazeria attacks enemies at range. I find Arielle to be the better choice personally as she can continuously put the entire north section of the fort to sleep over 24 turns whereas Lazeria only removes the top 4 Ballista and leaves.<br/><br/>
@@ -191,13 +191,13 @@ const Chapter17 = () => {
           <p>You can prevent having to fight him and keep him on his little island if you take out all 3 bashers before they fix the bridges. His <Item itemtype={itemtypes[2]}>Iron Duke</Item> makes him very tanky but someone like Phoeve can make short work of him. The enemy cavalry will not attack and try to retreat when he falls in battle.</p>
         </Character>
         <Character charname="Achilles" chartype="enemy">
-          <p>Three pirate ships which guard the south lake. They are extremely bulky and are best dealt with from Fauve or Zayid using a Hammer.</p>
+          <p>Three pirate ships which guard the south lake. They are extremely bulky and are best dealt with from Fauve or Zayid using a <Item itemtype={itemtypes[0]}>Hammer</Item>.</p>
         </Character>
         <Character charname="Neptune" chartype="enemy">
-          <p>Three pirate ships which guard the south lake. They are extremely bulky and are best dealt with from Fauve or Zayid using a Hammer.</p>
+          <p>Three pirate ships which guard the south lake. They are extremely bulky and are best dealt with from Fauve or Zayid using a <Item itemtype={itemtypes[0]}>Hammer</Item>.</p>
         </Character>
         <Character charname="Orion" chartype="enemy">
-          <p>Three pirate ships which guard the south lake. They are extremely bulky and are best dealt with from Fauve or Zayid using a Hammer.</p>
+          <p>Three pirate ships which guard the south lake. They are extremely bulky and are best dealt with from Fauve or Zayid using a <Item itemtype={itemtypes[0]}>Hammer</Item>.</p>
         </Character>
         <Character charname="Labronn" chartype="enemy">
           <p>Guards a village. He is pretty tanky but can easily be taken out from range from Phoeve behind the village.</p>
