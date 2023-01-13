@@ -8,11 +8,13 @@ body {
 }
 
 p {
-  color: #C8CFCD
+  color: #C8CFCD;
+  text-align: left;
 }
 
 li {
-  color: #C8CFCD
+  color: #C8CFCD;
+  text-align: left;
 }
 
 img {
@@ -155,6 +157,10 @@ background-color: #000;
 
 .center {
   text-align: center;
+}
+
+.left {
+  text-align: left;
 }
 
 .text-footer {
