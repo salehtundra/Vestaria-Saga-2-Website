@@ -86,17 +86,17 @@ const Chapter4 = () => {
       <SectionBody>
       <ul>
           <li>The village furthest to the left gives a <Item itemtype={itemtypes[0]}>hammer</Item> and has a refugee spawn.
-            <img src="./screenshots/item4-1.png" alt="Treasure 1" />
+            <img src="./screenshots/chapter4item1.png" alt="Treasure 1" />
           </li>
           <li>The treasure chest which you need to open with Drake yields a <Item itemtype={itemtypes[0]}>Gold Bullion</Item>.</li>
           <li>The flower on the cliff yields a <Item itemtype={itemtypes[2]}>Liquid Vitality</Item>.
-            <img src="./screenshots/item4-2.png" alt="Treasure 2" />
+            <img src="./screenshots/chapter4item2.png" alt="Treasure 2" />
           </li>
           <li>You need one of the two sailors or both to head to the island and examine the ore to get a <Item itemtype={itemtypes[2]}>Siurian Thaunite</Item>. As soon as you examine it Hedskinn will show up from the volcano. He is technically the only boss enemy on this map. The sailors will have trouble dealing with him so it is best to have healing items on them and back off to Drake.
-            <img src="./screenshots/item4-3.png" alt="Treasure 3" />
+            <img src="./screenshots/chapter4item3.png" alt="Treasure 3" />
           </li>
           <li>The house on the top right corner has a <Item itemtype={itemtypes[2]}>Lurk Tome</Item> skill book. Make sure to pick this up.
-            <img src="./screenshots/item4-4.png" alt="Treasure 4" />
+            <img src="./screenshots/chapter4item4.png" alt="Treasure 4" />
           </li>           
         </ul>
         <p>The following lists all the item drops enemies yield in this chapter:</p>

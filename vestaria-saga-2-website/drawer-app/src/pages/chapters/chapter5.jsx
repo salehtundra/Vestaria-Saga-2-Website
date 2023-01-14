@@ -97,16 +97,16 @@ const Chapter5 = () => {
           <li>The middle right house gives you a <Item itemtype={itemtypes[0]}>Sack of Coin</Item>.</li>
           <li>The bottom right house gives you <Item itemtype={itemtypes[0]}>Octavo Herbs</Item>.</li>
           <li>The blue highlighted lily pads on the river which only one of your sailors can reach either gives you a <Item itemtype={itemtypes[2]}>Maiden's Favor</Item> or a <Item itemtype={itemtypes[2]}>Esoteric Scripture</Item> depending on your choice.
-            <img src="./screenshots/item5-1.png" alt="Treasure 1" />
+            <img src="./screenshots/chapter5item1.png" alt="Treasure 1" />
           </li>
           <li><Item itemtype={itemtypes[2]}>Siurian Thaumite</Item> can be found by examing the ore deposit in the forest, it will spawn two thieves with Deadly Edge knives.
-            <img src="./screenshots/item5-2.png" alt="Treasure 2" />
+            <img src="./screenshots/chapter5item2.png" alt="Treasure 2" />
           </li>
           <li>The flower in the forest when examined yields <Item itemtype={itemtypes[0]}>Bellflower Leaf</Item>.
-            <img src="./screenshots/item5-3.png" alt="Treasure 3" />
+            <img src="./screenshots/chapter5item3.png" alt="Treasure 3" />
           </li>
           <li>The flower in the top left near the bandits when examined yields <Item itemtype={itemtypes[0]}>Octavo Herbs</Item>.
-            <img src="./screenshots/item5-4.png" alt="Treasure 4" />
+            <img src="./screenshots/chapter5item4.png" alt="Treasure 4" />
           </li>
         </ul>
         <p>With the exception of one item, the drops do not seem to differ depending on the tactic.</p>
@@ -133,11 +133,11 @@ const Chapter5 = () => {
         <ul>
           <li>As explained in the map overview this map changes depending on what Baruke says the tactic is for the AI. Pay close attention to it and reload if you want a specific tactic and map formation.</li>
           <li>If you visit the blue highlighted lily pads with either sailor a cutscene will occur and you will be offered a choice between an <Item itemtype={itemtypes[2]}>Esoteric Scripture</Item> (free level up) and a <Item itemtype={itemtypes[2]}>Maiden's Favor</Item> (stat boost accessory). I recommend the <Item itemtype={itemtypes[2]}>Maiden's Favor</Item>.
-            <img src="./screenshots/event5-1.png" alt="Event 1" />
+            <img src="./screenshots/chapter5event1.png" alt="Event 1" />
           </li>
           <li>Make sure to visit the house below the mountain when the map is close to ending to get Bertoullia as an ally. You want to do this later because you need to keep her alive as a green unit to permanently recruit her and she tends to go for the thieves above her on the map which drop loot preventing you from getting the loot.</li>
           <li>Not on the map as an event but Barzelphen* shows up in the forest in the top left corner after a while and is capturable. Have Zade nearby to capture him.
-            <img src="./screenshots/event5-2.png" alt="Event 2" />
+            <img src="./screenshots/chapter5event2.png" alt="Event 2" />
           </li>
         </ul>
       </SectionBody>

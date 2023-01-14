@@ -62,10 +62,10 @@ const Chapter2 = () => {
           <SectionBody>
             <ul>
               <li>The chest in the locked room contains a <Item itemtype={itemtypes[2]}>Healing Ring.</Item> I gave this to Ashram to nullify his hp draining skill.
-                <img src="./screenshots/item2-1.png" alt="Treasure 1" />
+                <img src="./screenshots/chapter2item1.png" alt="Treasure 1" />
               </li>
               <li>The skeleton next to the top right lever contains an <Item itemtype={itemtypes[0]}>Estoc</Item>.
-                <img src="./screenshots/item2-2.png" alt="Treasure 2" />
+                <img src="./screenshots/chapter2item2.png" alt="Treasure 2" />
               </li>
             </ul>
             <br/>

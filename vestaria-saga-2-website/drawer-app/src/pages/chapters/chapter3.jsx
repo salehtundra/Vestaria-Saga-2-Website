@@ -81,13 +81,13 @@ const Chapter3 = () => {
         <ul>
           <li>The house closest to your starting area will give you a Tisane healing item and take <Item itemtype={itemtypes[0]}>200 Denari</Item> as payment.</li>
           <li>The northern house gives you a <Item itemtype={itemtypes[0]}>compact bow</Item>.
-            <img src="./screenshots/item3-1.png" alt="Treasure 1" />
+            <img src="./screenshots/chapter3item1.png" alt="Treasure 1" />
           </li>
           <li>The top left village on this map gives you <Item itemtype={itemtypes[2]}>The Art of War</Item>. Be careful about who this is given to. This item is locked to the inventory of whoever visits the village (no trading). This scroll effectively permanently boosts growth rates like the Crusader Scrolls in Fire Emblem Thracia 776. I personally visited this house with Sheela as I found Dune (her counterpart) to be pretty broken in VS1. Drake, Baymonk, Zade, or Zayid seem like other best choices to me. Hilda seems like a bad choice because of the warning in her description.
-            <img src="./screenshots/item3-2.png" alt="Treasure 2" />
+            <img src="./screenshots/chapter3item2.png" alt="Treasure 2" />
           </li>
           <li>Technically part of an event and so not on my map but you can get a <Item itemtype={itemtypes[2]}>Siurian Thaumite</Item> from the beach in the top right corner on turn 21 if you keep the dragon alive. This is very easy to do surprisingly. This is a very useful item as it allows you to fully repair the durability of one weapon.
-            <img src="./screenshots/item3-3.png" alt="Treasure 3" />
+            <img src="./screenshots/chapter3item3.png" alt="Treasure 3" />
           </li>          
         </ul>
         <p>The following lists all the item drops enemies yield in this chapter:</p>
@@ -114,16 +114,16 @@ const Chapter3 = () => {
           <li>If you visited the house Jonathan comes from you can get a permanent +1 to your defense stat to whichever unit visits the house. I used Sheela because of the recruit mechanic I'll explain in the fourth event.</li>
           <li>Talk to Baymonk with Zade for the option to recruit him for 2000 Denari. I believe this is worth the cost easily.</li>
           <li>Capture Karajan with Zade. Ok so here is how the capture mechanic works. The house in the bottom right explains it. You must reduce the health of an enemy with a star in their name like Karajan* to 10HP or less but not kill them. Once their health is low Zade can begin a conversation with them as a capture command is now shown on the menu when Zade is adjacent. A conversation occurs and the unit disappears with a little message saying they have been taken prisoner by you. Karajan is a great healer and very much worth capturing.
-            <img src="./screenshots/event3-1.png" alt="Event 1" />
+            <img src="./screenshots/chapter3event1.png" alt="Event 1" />
           </li>
           <li>Capture Castore and Porruck with Zade. Similar to the previous Zade can initiate a conversation with either pirate when they reach 10HP.
-            <img src="./screenshots/event3-2.png" alt="Event 2" />
+            <img src="./screenshots/chapter3event2.png" alt="Event 2" />
           </li>
           <li>Talk to Drake with the <Item itemtype={itemtypes[1]}>Crested Armlet*</Item> on Zade. Zade can recruit Drake if he wields the <Item itemtype={itemtypes[1]}>Crested Armlet*</Item>. The red house tells you which units can cross collapsed bridges and which cannot. Zade cannot so you will need to use units like Zayid, Ashram, Sheela, or Hilda to get the armlet and ferry it across the bridge to trade it to Zade.
-            <img src="./screenshots/event3-3.png" alt="Event 3" />
+            <img src="./screenshots/chapter3event3.png" alt="Event 3" />
           </li>
           <li>Ignore the dragon for 21 turns to get a <Item itemtype={itemtypes[2]}>Siurian Thaumite</Item>. This one is a weird one that took me a second playthrough of the map to figure out. The first 6 turns the dragon on the top left is in berserk status and will go after every enemy unit on the map. At turn 6 he loses the status and loses interest in everyone. He will go straight to the island and ignore your army. He poses absolutely zero threat to your party. At turn 15 the dragon will eat the ore chunk you cannot reach on the top left island (as Porruck and Castore disappear after being captured). He will fly across the ocean and drop the ore chunk on the top right beach at turn 21. He will stand there and not attack any of your units unless you attack him first so he is also still not a threat. He gives a ton of exp on defeat but is helping you out so it is a moral choice what to do with the dragon.
-            <img src="./screenshots/event3-4.png" alt="Event 4" />
+            <img src="./screenshots/chapter3event4.png" alt="Event 4" />
           </li>
         </ul>
       </SectionBody>

@@ -80,17 +80,17 @@ const Chapter1 = () => {
             <ul>
               <li>The lower left house on the map gives you <Item itemtype={itemtypes[0]}>Octavo Herbs.</Item></li>
               <li>The flower near the lower left house gives you an <Item itemtype={itemtypes[0]}>Antidote</Item>.
-                <img src="./screenshots/item1-1.png" alt="Treasure 1" />
+                <img src="./screenshots/chapter1item1.png" alt="Treasure 1" />
               </li>
               <li>The house in the top right corner gives you <Item itemtype={itemtypes[0]}>Herbs</Item>.
-                <img src="./screenshots/item1-2.png" alt="Treasure 2" />
+                <img src="./screenshots/chapter1item2.png" alt="Treasure 2" />
               </li>
               <li>The house in the top left corner near the grave with a hole gives you an <Item itemtype={itemtypes[0]}>Elixir</Item>.</li>
               <li>The skeleton next to the hole gives you a <Item itemtype={itemtypes[2]}>Divine Sword.</Item> It gives you a choice on whether or not you want to do this. If you do, you get the <Item itemtype={itemtypes[2]}>Divine Sword.</Item> but whichever unit picks it up gets put to sleep and bone soldiers with a 2x hit effect weapon spawn from the hole for about 4 turns. I picked it up with Sujata since she cannot die and used Accorte's fire tome to easily deal with the skeletons at range.
-                <img src="./screenshots/item1-3.png" alt="Treasure 3" />
+                <img src="./screenshots/chapter1item3.png" alt="Treasure 3" />
               </li>
               <li>The tome behind the town you need to arrive at with Zade gives you the <Item itemtype={itemtypes[2]}>Potential Tome</Item>. A skill book that is very valuable as it teaches a skill which increases the experience gained from a unit. It appears only Sujata can move over the gray mountains tiles one at a time to get it. I recommend using this on whoever you really want to use for the rest of the game early on. Zade may be a good choice for it.
-                <img src="./screenshots/item1-4.png" alt="Treasure 4" />
+                <img src="./screenshots/chapter1item4.png" alt="Treasure 4" />
               </li>
             </ul>
             <br/>
@@ -122,7 +122,7 @@ const Chapter1 = () => {
             <p>
             The only enemy reinforcements we need to deal with on this chapter are the bone soldiers that spawn from the hole if you take the <Item itemtype={itemtypes[2]}>Divine Sword</Item> from the skeleton near it. It also triggers a little scene telling you about the reinforcements.
             </p>
-            <img src="./screenshots/event1-1.png" alt="Chapter Data" />
+            <img src="./screenshots/chapter1event1.png" alt="Chapter Data" />
           </SectionBody>
 
           <SectionHeader>
