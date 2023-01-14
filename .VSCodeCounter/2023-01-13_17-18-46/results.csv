@@ -1,0 +1,57 @@
+"filename", "language", "Markdown", "JavaScript React", "JavaScript", "CSS", "JSON", "XML", "HTML", "comment", "blank", "total"
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\README.md", "Markdown", 16, 0, 0, 0, 0, 0, 0, 0, 5, 21
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\package-lock.json", "JSON", 0, 0, 0, 0, 29618, 0, 0, 0, 1, 29619
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\package.json", "JSON", 0, 0, 0, 0, 44, 0, 0, 0, 1, 45
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 23, 23, 1, 47
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\public\manifest.json", "JSON", 0, 0, 0, 0, 25, 0, 0, 0, 1, 26
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\App.css", "CSS", 0, 0, 0, 33, 0, 0, 0, 0, 6, 39
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\App.js", "JavaScript", 0, 0, 78, 0, 0, 0, 0, 0, 3, 81
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\App.test.js", "JavaScript", 0, 0, 7, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\constants\Itemtypes.jsx", "JavaScript React", 0, 6, 0, 0, 0, 0, 0, 1, 1, 8
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\guide\Character.jsx", "JavaScript React", 0, 17, 0, 0, 0, 0, 0, 1, 3, 21
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\guide\Footer.jsx", "JavaScript React", 0, 11, 0, 0, 0, 0, 0, 0, 1, 12
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\guide\Item.jsx", "JavaScript React", 0, 12, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\guide\SectionBody.jsx", "JavaScript React", 0, 18, 0, 0, 0, 0, 0, 0, 2, 20
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\guide\SectionHeader.jsx", "JavaScript React", 0, 19, 0, 0, 0, 0, 0, 0, 2, 21
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\guide\SectionTitle.jsx", "JavaScript React", 0, 19, 0, 0, 0, 0, 0, 0, 2, 21
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\layout\CustomAppBar.jsx", "JavaScript React", 0, 16, 0, 0, 0, 0, 0, 0, 4, 20
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\navigation\AboutListItem.jsx", "JavaScript React", 0, 26, 0, 0, 0, 0, 0, 0, 3, 29
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\navigation\ChapterListItem.jsx", "JavaScript React", 0, 26, 0, 0, 0, 0, 0, 0, 3, 29
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\navigation\ContactListItem.jsx", "JavaScript React", 0, 26, 0, 0, 0, 0, 0, 0, 3, 29
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\navigation\DrawerNavigate.jsx", "JavaScript React", 0, 136, 0, 0, 0, 0, 0, 0, 7, 143
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\components\navigation\OverviewListItem.jsx", "JavaScript React", 0, 26, 0, 0, 0, 0, 0, 0, 3, 29
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\index.css", "CSS", 0, 0, 0, 175, 0, 0, 0, 0, 35, 210
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\index.js", "JavaScript", 0, 0, 12, 0, 0, 0, 0, 3, 3, 18
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\logo.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\aboutPage.jsx", "JavaScript React", 0, 15, 0, 0, 0, 0, 0, 0, 2, 17
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter1.jsx", "JavaScript React", 0, 158, 0, 0, 0, 0, 0, 0, 10, 168
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter10.jsx", "JavaScript React", 0, 162, 0, 0, 0, 0, 0, 0, 10, 172
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter11.jsx", "JavaScript React", 0, 185, 0, 0, 0, 0, 0, 0, 11, 196
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter12.jsx", "JavaScript React", 0, 119, 0, 0, 0, 0, 0, 0, 9, 128
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter13.jsx", "JavaScript React", 0, 131, 0, 0, 0, 0, 0, 0, 10, 141
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter14.jsx", "JavaScript React", 0, 232, 0, 0, 0, 0, 0, 0, 10, 242
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter15.jsx", "JavaScript React", 0, 92, 0, 0, 0, 0, 0, 0, 8, 100
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter16.jsx", "JavaScript React", 0, 160, 0, 0, 0, 0, 0, 0, 10, 170
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter17.jsx", "JavaScript React", 0, 275, 0, 0, 0, 0, 0, 0, 12, 287
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter18.jsx", "JavaScript React", 0, 251, 0, 0, 0, 0, 0, 0, 11, 262
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter19.jsx", "JavaScript React", 0, 134, 0, 0, 0, 0, 0, 0, 9, 143
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter2.jsx", "JavaScript React", 0, 142, 0, 0, 0, 0, 0, 0, 12, 154
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter20.jsx", "JavaScript React", 0, 240, 0, 0, 0, 0, 0, 0, 11, 251
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter21.jsx", "JavaScript React", 0, 231, 0, 0, 0, 0, 0, 0, 12, 243
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter22.jsx", "JavaScript React", 0, 203, 0, 0, 0, 0, 0, 0, 10, 213
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter23.jsx", "JavaScript React", 0, 252, 0, 0, 0, 0, 0, 0, 11, 263
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter24.jsx", "JavaScript React", 0, 107, 0, 0, 0, 0, 0, 0, 11, 118
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter25.jsx", "JavaScript React", 0, 96, 0, 0, 0, 0, 0, 0, 10, 106
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter3.jsx", "JavaScript React", 0, 161, 0, 0, 0, 0, 0, 0, 12, 173
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter4.jsx", "JavaScript React", 0, 155, 0, 0, 0, 0, 0, 0, 10, 165
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter5.jsx", "JavaScript React", 0, 199, 0, 0, 0, 0, 0, 0, 11, 210
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter6.jsx", "JavaScript React", 0, 137, 0, 0, 0, 0, 0, 0, 13, 150
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter7.jsx", "JavaScript React", 0, 153, 0, 0, 0, 0, 0, 0, 10, 163
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter7x.jsx", "JavaScript React", 0, 144, 0, 0, 0, 0, 0, 0, 10, 154
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter8.jsx", "JavaScript React", 0, 193, 0, 0, 0, 0, 0, 0, 11, 204
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\chapters\chapter9.jsx", "JavaScript React", 0, 105, 0, 0, 0, 0, 0, 0, 7, 112
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\contactPage.jsx", "JavaScript React", 0, 15, 0, 0, 0, 0, 0, 0, 2, 17
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\pages\guideOverview.jsx", "JavaScript React", 0, 49, 0, 0, 0, 0, 0, 0, 3, 52
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\reportWebVitals.js", "JavaScript", 0, 0, 12, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\CJTen\OneDrive\Documents\git\Vestaria-Saga-2-Website\vestaria-saga-2-website\drawer-app\src\setupTests.js", "JavaScript", 0, 0, 1, 0, 0, 0, 0, 4, 1, 6
+"Total", "-", 16, 4854, 110, 208, 29687, 1, 23, 32, 375, 35306
