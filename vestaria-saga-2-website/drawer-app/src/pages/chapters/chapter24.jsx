@@ -98,6 +98,18 @@ const Chapter24 = () => {
         </p>
       </SectionBody>
 
+      <SectionHeader>
+        <h1 class="text-big">
+          Softlock Warning
+        </h1>
+      </SectionHeader>          
+      <SectionBody>
+        <p class="text-small">
+          While you do not need to deploy any units outside the fortress to access the levers you need to access, you do need to deploy units at the teleporter room entrance. If you do not deploy anyone in the bottom right you cannot progress through this level.<br/><br/>
+          Technically, there is another way to softlock this level but you have plan it out and actively try to softlock yourself. If you broke all your weapons from the farming dark knights and skeletons and used all the healing items and food buffs on the previous chapter and then proceeded to not bring any long range healing into this level, the guest units cannot defend themselves from the waves of enemies and may die before you can free them. Death of any of the guest units is a game over on this map.<br/><br/>
+        </p>
+      </SectionBody>
+
       <Footer />
     </div>     
     )
